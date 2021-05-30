@@ -20,3 +20,7 @@ Does the current manufacturing data meet this design specification for all manuf
 
 ## T-Tests on Suspension Coils
 - The results of our T-test tell us that there was no significant difference from the population mean of 1500.
+
+<img width="433" alt="Screen Shot 2021-05-30 at 11 39 22 AM" src="https://user-images.githubusercontent.com/75695931/120110488-b642e280-c13b-11eb-955d-15b2d176e72c.png">
+<img width="411" alt="Screen Shot 2021-05-30 at 11 39 14 AM" src="https://user-images.githubusercontent.com/75695931/120110497-c064e100-c13b-11eb-85a2-844d8f8cd265.png">
+<img width="421" alt="Screen Shot 2021-05-30 at 11 39 01 AM" src="https://user-images.githubusercontent.com/75695931/120110504-c65ac200-c13b-11eb-8db8-00946fb0c06c.png">
