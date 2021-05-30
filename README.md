@@ -24,3 +24,13 @@ Does the current manufacturing data meet this design specification for all manuf
 <img width="433" alt="Screen Shot 2021-05-30 at 11 39 22 AM" src="https://user-images.githubusercontent.com/75695931/120110488-b642e280-c13b-11eb-955d-15b2d176e72c.png">
 <img width="411" alt="Screen Shot 2021-05-30 at 11 39 14 AM" src="https://user-images.githubusercontent.com/75695931/120110497-c064e100-c13b-11eb-85a2-844d8f8cd265.png">
 <img width="421" alt="Screen Shot 2021-05-30 at 11 39 01 AM" src="https://user-images.githubusercontent.com/75695931/120110504-c65ac200-c13b-11eb-8db8-00946fb0c06c.png">
+
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition.
+- One of the most sought after aspeccts of a car is good MPG, for this analysis we will analyze MechaCar MPG compared to the competitors (looknig at all car models)
+Null hypothesis:
+- MechaCar will have a higher MPG over all car models compared to that of the competitors. 
+What statistical test would you use to test the hypothesis? And why? 
+- The statistical test that I would use would have to be a T-test because this will allow us to compare the means of our datasets (Mechacar vs. Competition). If MechaCar is better on average then more people will buy MechaCars. 
+What data is needed to run the statistical test?
+- We would need the average MPG for all car models for both MechaCar and all the competitors. 
