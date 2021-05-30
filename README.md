@@ -14,7 +14,9 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 - According to our data the current data does not meet the design specification because the suspension coils must not exceed 100 pounds per square inch, but lot 3 is larger than 100PSI.
 
+<img width="354" alt="Screen Shot 2021-05-30 at 11 38 22 AM" src="https://user-images.githubusercontent.com/75695931/120110457-8b588e80-c13b-11eb-8d56-ce11d59cbb84.png">
 
+<img width="498" alt="Screen Shot 2021-05-30 at 11 37 16 AM" src="https://user-images.githubusercontent.com/75695931/120110446-81cf2680-c13b-11eb-8676-5acc236be572.png">
 
 ## T-Tests on Suspension Coils
 - The results of our T-test tell us that there was no significant difference from the population mean of 1500.
